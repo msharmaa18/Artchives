@@ -1,4 +1,4 @@
-ARtCHIVES: Let the caricature begin
+ARtCHIVES: Let the caricature begin!
 
 Introducing ARtCHIVES, an innovative web development project that brings your images to life in a delightful and whimsical way. ARtCHIVES utilizes the power of machine learning and Python to transform any image provided by the user into a captivating cartoonized version. 
 
